@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/PROGRAMACION/teoria/ExamenMayo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/PROGRAMACION/teoria/ExamenMayo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ExamenMayo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ExamenMayo 1.0-SNAPSHOT API'
+prog11.examenmayo
+D:\PROGRAMACION\teoria\ExamenMayo\src\main\java = 1684752321577
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\allclasses-index.html = 1684754465308
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\allpackages-index.html = 1684754465310
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\element-list = 1684754465269
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\help-doc.html = 1684754465335
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\index-all.html = 1684754465328
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\index.html = 1684754465330
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\jquery-ui.overrides.css = 1684754465344
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\member-search-index.js = 1684754465314
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\module-search-index.js = 1684754465312
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\overview-tree.html = 1684754465297
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\package-search-index.js = 1684754465312
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\script.js = 1684754465338
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\search.js = 1684754465339
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\stylesheet.css = 1684754465337
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\tag-search-index.js = 1684754465318
+D:\PROGRAMACION\teoria\ExamenMayo\target\site\apidocs\type-search-index.js = 1684754465313
